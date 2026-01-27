@@ -8,10 +8,8 @@
 
 #define PACKET_MAX_SIZE 256
 
-const char *ssid = "XauXiHouse";
-const char *password = "HoSt26Wo03HiwoTr&PaNg";
-// const char *ssid = "tuankhang";
-// const char *password = "12345789";
+const char *ssid = "tuankhang";
+const char *password = "12345789";
 
 WiFiUDP udp;
 const int LOCAL_PORT = 12346;
