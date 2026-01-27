@@ -95,13 +95,6 @@ These scripts simulate message exchange and log timestamps.
 
 ---
 
-## 📸 Screenshots
-
-![GUI Screenshot](images/gui_example.png)  
-_Master messages appear in the right column, Slave messages in the left column._
-
----
-
 ## 🔗 References
 
 - [Precision Time Protocol (PTP) - IEEE 1588](https://en.wikipedia.org/wiki/Precision_Time_Protocol)
